@@ -1,4 +1,4 @@
-# db_hive_sample
+# db_SQL_sample
 
 A new Flutter project.
 
